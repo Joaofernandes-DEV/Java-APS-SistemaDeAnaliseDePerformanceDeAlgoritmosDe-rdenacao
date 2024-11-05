@@ -5,13 +5,20 @@ Sistema em Java para análise de performance de algoritmos de ordenação de dad
 ## 📋 Descrição do Projeto
 Este sistema permite comparar a eficiência de três algoritmos de ordenação: **Bubble Sort**, **Selection Sort** e **Quick Sort**. Através da geração de dados personalizados e da exibição dos tempos de execução de cada algoritmo, o sistema ajuda a avaliar o método mais eficiente para diferentes volumes de dados.
 
+ 
 ## 🎯 Objetivo
 O objetivo é fornecer uma ferramenta prática para estudar algoritmos de ordenação, ajudando na escolha do método mais adequado para cenários específicos de grandes volumes de dados, onde a eficiência é essencial.
+
+
+## 📚 Aprendizados
+Este projeto permitiu explorar a complexidade de algoritmos e a eficiência em tempo de execução, consolidando o entendimento sobre como a escolha do método de ordenação afeta o desempenho em diferentes contextos.
+
 
 ## 🛠️ Funcionalidades
 - **Geração de Dados Aleatórios**: Números aleatórios são gerados para testes, com intervalo e volume personalizáveis.
 - **Métodos de Ordenação**: Implementação de Bubble Sort, Selection Sort e Quick Sort, cada um com suas próprias características de eficiência.
 - **Comparação de Desempenho**: Visualização do tempo de execução de cada algoritmo, possibilitando análises de eficiência.
+
 
 ## 📈 Resultados e Análise
 Os testes demonstraram que o **Quick Sort** é o mais eficiente para grandes volumes de dados devido à sua complexidade média \(O(n \log n)\). Em comparação, **Bubble Sort** e **Selection Sort** apresentaram desempenho inferior e são mais indicados para listas pequenas ou para fins didáticos.
@@ -36,6 +43,7 @@ Os testes demonstraram que o **Quick Sort** é o mais eficiente para grandes vol
 
 > **Observação**: Os tempos podem variar conforme a configuração de hardware. Estes valores são aproximados.
 
+
 ## 📂 Estrutura do Projeto
 ```plaintext
 Java-APS-Sistema-De-Analise-De-Performance-De-Algoritmos-De-Ordenacao/
@@ -50,6 +58,7 @@ Java-APS-Sistema-De-Analise-De-Performance-De-Algoritmos-De-Ordenacao/
 │   │   ├── QuickSort.java          # Implementação do algoritmo Quick Sort
 ├── README.md                       # Documentação do projeto
 ```
+
 
 ## Autores
 
