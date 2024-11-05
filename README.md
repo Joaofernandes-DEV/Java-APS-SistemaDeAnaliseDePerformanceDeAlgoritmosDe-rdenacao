@@ -64,3 +64,8 @@ Java-APS-Sistema-De-Analise-De-Performance-De-Algoritmos-De-Ordenacao/
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/170758704?s=400&u=da7a33d81f3feeb953e687442cba5d042527f94d&v=4" width=115><br><sub>João Vitor Fernades</sub>](https://github.com/Joaofernandes-DEV) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/149197706?v=4" width=115><br><sub>Leonardo Souza</sub>](https://github.com/leonardosouzaz) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/186076508?v=4" width=115><br><sub>Victor Anthonio</sub>](https://github.com/VictorSoares-dev) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/187339283?v=4" width=115><br><sub>Victor Sampaio</sub>](https://github.com/VSampaio13) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/187325307?v=4" width=115><br><sub>Alex Lourenço</sub>](https://github.com/4lexbarbosa) |
 | :---: | :---: | :---: | :---: | :---: |
+
+
+## Licença
+
+Este projeto está sob licença. Consulte [LICENSE](LICENSE) para obter mais informações.
